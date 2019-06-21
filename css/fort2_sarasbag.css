@@ -36,12 +36,8 @@ p.sub_p {
 
 .news-right p.sub_p:hover {
     color: black;
-}
 
-p.sub_p:hover {
-    color: black !important;
 }
-
 /*.news-left img {
     width: 100%;
 }*/
