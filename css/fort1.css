@@ -33,6 +33,11 @@ p.sub_p {
     margin: 1.2em 0;
 
 }
+
+p.sub_p:hover {
+    color: black;
+
+}
 /*.news-left img {
     width: 100%;
 }*/
@@ -238,3 +243,7 @@ table{
 	display: inline-block;
 }*/
 
+
+ p .para_highlight:hover{
+	color: black;
+}
