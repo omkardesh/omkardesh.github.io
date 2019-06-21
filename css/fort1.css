@@ -34,7 +34,7 @@ p.sub_p {
 
 }
 
-p.sub_p:hover {
+.news-right p.sub_p:hover {
     color: black;
 
 }
