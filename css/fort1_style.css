@@ -1647,7 +1647,7 @@ p.head_para {
         padding: 2em 1em;
     }
     .banner_top.innerpage {
-        background: url(../images/banner3.jpg) no-repeat 0px -21px;
+        background: url(../images/Poster/Torna1.jpg) no-repeat 0px -21px;
         background-size: cover;
         -webkit-background-size: cover;
         -moz-background-size: cover;
@@ -2205,4 +2205,6 @@ p.head_para {
         color: black;
       }
 
-      
+      .inner_section_w3ls .para_highlight:hover{
+	color: black;
+}
