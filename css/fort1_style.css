@@ -905,6 +905,7 @@ button.top_shoe_cart {
 
 .thumbnail img {
 	width: 100%;
+	border: 1px solid white;
 }
 .mid_slider_info {
     margin: 0 auto;

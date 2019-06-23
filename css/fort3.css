@@ -16,7 +16,7 @@ body a {
 	padding: 6em 5em;
 }
 .mid_services_img {
-    background: url(../images/Torna/Torna2.jpg) no-repeat 0px 0px;
+    background: url(../images/Rajgad/raj2.jpg) no-repeat 0px 0px;
     background-size: cover;
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -36,8 +36,12 @@ p.sub_p {
 
 .news-right p.sub_p:hover {
     color: black;
-
 }
+
+p.sub_p:hover {
+    color: black !important;
+}
+
 /*.news-left img {
     width: 100%;
 }*/
